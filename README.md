@@ -2,6 +2,10 @@
 
 Daymark is a clean, responsive todo app for organizing daily tasks and staying focused. It provides a simple task workflow with a calm, lightweight interface that works on desktop and mobile browsers.
 
+## Live Demo
+
+https://daymark-ruby.vercel.app/
+
 ## Features
 
 - Add new tasks from the main input
